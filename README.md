@@ -1,5 +1,5 @@
 # Software-Defined-Routing
-Implemented simulated routers in application layer over a customized network with an SDN controller. 
+Over a customized network with an SDN controller, implemented simulated routers in application layer . 
 Features
 1. Router Distance update with controller, 
 2. Data Transfer via shortest path using Bellman Ford, 
